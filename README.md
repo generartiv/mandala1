@@ -5,4 +5,5 @@ Sketch pricessing en 4 fichiers:
 - courbe.pde, la class dont se sert chaque motif pour s'afficher
 - movingVal.pde, une class qui generere une valeur entre le min et le max voulu.
 
+Video du code en action : https://youtu.be/zTIYS4L1_LE
 Plus d'infos, d'autres réalisations sur https://hugueslehaire.fr

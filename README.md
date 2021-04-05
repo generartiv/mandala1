@@ -6,4 +6,5 @@ Sketch pricessing en 4 fichiers:
 - movingVal.pde, une class qui generere une valeur entre le min et le max voulu.
 
 Video du code en action : https://youtu.be/zTIYS4L1_LE
+
 Plus d'infos, d'autres réalisations sur https://hugueslehaire.fr
